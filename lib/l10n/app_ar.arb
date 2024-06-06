@@ -1,0 +1,7 @@
+{
+    "hello": "مرحبا",
+    "@hello": {
+      "description": "Greeting message"
+    }
+  }
+  
