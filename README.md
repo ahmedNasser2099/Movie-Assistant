@@ -16,3 +16,6 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 "# Movie-Assistant" 
 "# Movie-Assistant" 
+![WhatsApp Image 2024-02-22 at 17 29 12_f8b4c6f8](https://github.com/user-attachments/assets/d077baef-a843-4735-915d-ae6a94bf938e)
+![WhatsApp Image 2024-02-22 at 17 29 12_2295de35](https://github.com/user-attachments/assets/f3cea97e-a9e4-4991-a8dc-6124fd5da04a)
+![WhatsApp Image 2024-02-22 at 17 29 12_1aabb690](https://github.com/user-attachments/assets/a03a405d-37f7-4266-a419-651a3eeb3cc2)
